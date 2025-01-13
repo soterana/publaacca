@@ -1,6 +1,6 @@
 "use client"
 
-import MyComponent from "layout"
+import MyComponent from "layout.txs"
 
 export default function SyntheticV0PageForDeployment() {
   return <MyComponent />
